@@ -2,7 +2,7 @@
 
 ## Description
 2,608 Videos – Before And After Weight Loss Comparison Data includes indoor scenes and outdoor scenes. The data covers multiple scenes and multiple resolutions. The data can be used for tasks such as human behavior detection and comparison before and after weight loss.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1366?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1366?source=Github
 
 
 ## Data size
